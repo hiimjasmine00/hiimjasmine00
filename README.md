@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/c74bc3a0-0daa-45da-9d2a-10d4c86ff978.svg)](https://wakatime.com/@c74bc3a0-0daa-45da-9d2a-10d4c86ff978)
+
 👋🏿 I'm Jasmine, that one girl that contributes to [Geode](https://github.com/geode-sdk) a lot.
 
 I'm also the developer of many Geometry Dash mods, the most popular of which being [More Icons](https://github.com/hiimjasmine00/MoreIcons). You'll also see me moderating the [Geode Mod Index](https://geode-sdk.org/mods), the largest collection of Geometry Dash mods.
