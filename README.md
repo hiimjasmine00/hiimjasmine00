@@ -8,5 +8,5 @@ My main languages are JavaScript and TypeScript, with some knowledge of C#, Java
 
 If you want to get in touch with me, you can find me on Discord at @hiimjasmine00. I also accept DMs from Twitter/X, Reddit, and Bluesky.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiimjasmine00&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiimjasmine00&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hiimjasmine00&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hiimjasmine00&layout=compact&theme=dark)
